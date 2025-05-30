@@ -1,0 +1,12 @@
+
+title: SamirCyber
+email: Kunduzi1313@gmail.com
+description: >-
+  سایت رسمی سمیر سایبر، متخصص در امنیت سایبری و مقابله با متخلفان در تلگرام و واتساپ.
+baseurl: ""
+url: "https://yourusername.github.io/SamirCyberSite"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+languages: ["fa", "ps", "en"]
